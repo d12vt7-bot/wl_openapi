@@ -9,6 +9,7 @@
             "description": "Example for IPv4 addresses",
             "ranges": [
                 "1.1.1.100",
+                "58.187.186.192",
             ]
         },
 
