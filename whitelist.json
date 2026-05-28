@@ -1,7 +1,7 @@
 
 {
     "version": "1.0",
-    "description": "Generic Data Center file example",
+    "description": "KH whitelist OpenAPI",
     "objects": [
         {
             "name": "KH_Test",
