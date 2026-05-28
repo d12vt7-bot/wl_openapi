@@ -1,0 +1,12 @@
+{
+  "title": "Check Point Whitelist",
+  "description": "Danh sach IP duoc phep qua tuong lua",
+  "objects": [
+    {
+      "name": "Doi_Tac_A",
+      "ranges": [
+        "58.187.186.192",
+      ]
+    },
+  ]
+}
