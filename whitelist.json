@@ -4,7 +4,7 @@
     "description": "Generic Data Center file example",
     "objects": [
         {
-            "name": "Object A name",
+            "name": "KH_Test",
             "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
             "description": "Example for IPv4 addresses",
             "ranges": [
