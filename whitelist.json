@@ -1,12 +1,16 @@
+
 {
-  "title": "Check Point Whitelist",
-  "description": "Danh sach IP duoc phep qua tuong lua",
-  "objects": [
-    {
-      "name": "Doi_Tac_A",
-      "ranges": [
-        "58.187.186.192",
-      ]
-    },
-  ]
+    "version": "1.0",
+    "description": "Generic Data Center file example",
+    "objects": [
+        {
+            "name": "Object A name",
+            "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
+            "description": "Example for IPv4 addresses",
+            "ranges": [
+                "58.187.186.192",
+            ]
+        },
+
+    ]
 }
